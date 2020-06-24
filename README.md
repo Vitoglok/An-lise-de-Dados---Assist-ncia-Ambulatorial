@@ -34,12 +34,12 @@ O objetivo da análise é criar vários gráficos para comparar o total de gasto
 
 # Legenda: 
 
-  No primeiro gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
-  No segundo gráfico a cor roxa representa o valor apresentado e cor preta representa o valor aprovado em Taubaté;
-  No terceiro gráfico a cor vermelha representa o valor apresentado e a cor azul representa o valor aprovado em Caçapava;
-  No quarto gráfico a cor cinza representa o valor apresentado e cor preta representa o valor aprovado em São José dos Campos;
-  No quinto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
-  No sexto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
+  No primeiro gráfico a cor roxa representa o valor apresentado e cor preta representa o valor aprovado em Taubaté;
+  No segundo gráfico a cor cinza representa o valor apresentado e cor preta representa o valor aprovado em São José dos Campos;
+  No terceiro gráfico a cor amarelo representa o valor apresentado e a cor preta representa o valor aprovado em Caçapava;
+  No quarto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
+  No quinto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
+  No sexto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
 
 # Conclusão:
 
