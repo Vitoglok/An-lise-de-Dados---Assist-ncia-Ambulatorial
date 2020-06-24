@@ -2,6 +2,26 @@
 
 Nicholas Gabriel dos Santos Roque e Vitor Alexandre Vargas dos Santos
 
+# Itens necessários para visualização:
+
+Você deverá ir em seu Prompt de comando e executar os seguintes códigos:
+
+pip install pandas
+
+pip install matplotlib
+
+pip install jupyter notebook
+
+Após instalar você deverá executar o comando:
+
+jupyter notebook
+
+Depois de executar o comando, vá para esse link : 
+
+http://localhost:8888/
+
+Depois procure pelo arquivo no diretório onde você baixou. :)
+
 # Trabalho:
 
 O trabalho tem como propósito analisar os valores apresentados e aprovados referentes a assistencia ambulatorial das cidades: Caçapava, São josé dos Campos e Taubaté, e comparar os valores que cada prefeitura gasta em sua sua respectiva cidade.
@@ -13,12 +33,13 @@ A análise foi feita em python com o ambiente jupyter Notebook. Os arquivos util
 O objetivo da análise é criar vários gráficos para comparar o total de gastos de cada cidade, outra para compara os gastos por categoria de procedimento de cada cidade, e outras três para comparas qual categoria as prefeituras mais gastam em seus respectivos munícipios.
 
 # Legenda: 
-	No primeiro gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
-	No segundo gráfico a cor roxa representa o valor apresentado e cor preta representa o valor aprovado em Taubaté;
-	No terceiro gráfico a cor vermelha representa o valor apresentado e a cor azul representa o valor aprovado em Caçapava;
-	No quarto gráfico a cor cinza representa o valor apresentado e cor preta representa o valor aprovado em São José dos Campos;
-	No quinto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
-	No sexto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
+
+No primeiro gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
+No segundo gráfico a cor roxa representa o valor apresentado e cor preta representa o valor aprovado em Taubaté;
+No terceiro gráfico a cor vermelha representa o valor apresentado e a cor azul representa o valor aprovado em Caçapava;
+No quarto gráfico a cor cinza representa o valor apresentado e cor preta representa o valor aprovado em São José dos Campos;
+No quinto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
+No sexto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o preto representa São José dos Campos;
 
 # Conclusão:
 
