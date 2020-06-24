@@ -12,7 +12,7 @@ pip install matplotlib
 
 pip install jupyter notebook
 
-Após instalar você deverá executar o comando:
+Após instalar você deverá extrair o arquivo e depois executar o comando:
 
 jupyter notebook
 
