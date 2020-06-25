@@ -34,15 +34,15 @@ O objetivo da análise é criar vários gráficos para comparar o total de gasto
 
 # Legenda: 
 
-    No primeiro gráfico a cor roxa representa o valor apresentado e cor preta representa o valor aprovado em Taubaté;
-    No segundo gráfico a cor cinza representa o valor apresentado e cor preta representa o valor aprovado em São José dos Campos;
-    No terceiro gráfico a cor amarelo representa o valor apresentado e a cor preta representa o valor aprovado em Caçapava;
+    No primeiro gráfico a cor roxa representa o valor apresentado por cidadão e cor preta representa o valor aprovado por cidadão em Taubaté;
+    No segundo gráfico a cor cinza representa o valor apresentado por cidadão e cor preta representa o valor aprovado por cidadão em São José dos Campos;
+    No terceiro gráfico a cor amarelo representa o valor apresentado por cidadão e a cor preta representa o valor aprovado por cidadão em Caçapava;
     No quarto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
     No quinto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
     No sexto gráfico a cor roxa representa Taubaté, amarelo representa Caçapava e o cinza representa São José dos Campos;
 
 # Conclusão:
 
-   Nós descobrimos que entre os três munípicios o que mais gasta em assistência ambulatorial é São José dos Campos e oque menos gasta é Caçapava gastando dez vezes menos do que as outras duas cidades.
-   E o procedimento que mais gasta dinheiro no total das três cidades são os procedimentos com procedimentos Clínicos e São José dos Campos e Taubaté gastam uma quantia muito maior do que Caçapava em medicamentos, mas em Caçapava eles gastam mais dinheiro em procedimentos com finalidade diagnóstica, o que demonstra qual são suas políticas contra covid-19, São José dos Campos e Taubaté estão preocupados em em garantir remédios para o combate a covid-19, enquanto Caçapava foca em diagnósticar as pessoas para ter um controle melhor.
-  Outra curiosidade descoberta e que em Taubaté e em Caçapava eles gastam mais dinheiro do que o governo aprovou em quase todas categorias de procedimentos. 
+   Nós descobrimos que entre os três munípicios o que mais gasta em assistência ambulatorial é São José dos Campos e oque menos gasta é Caçapava gastando duas vezes menos do que São José dos Campos e três vezes menos que Taubaté.\n
+   O procedimento que mais gasta dinheiro por cidadão no total das três cidades são os procedimentos com procedimentos Clínicos e São José dos Campos e Taubaté gastam uma quantia muito maior do que Caçapava em medicamentos, mas em Caçapava eles gastam mais dinheiro em procedimentos com finalidade diagnóstica, o que demonstra qual são suas políticas contra covid-19, São José dos Campos e Taubaté estão preocupados em em garantir remédios para o combate a covid-19, enquanto Caçapava foca em diagnósticar as pessoas para ter um controle melhor.\n
+  Outra curiosidade descoberta e que em Taubaté e em Caçapava eles gastam mais dinheiro do que o governo aprovou em algumas categorias de procedimentos. 
