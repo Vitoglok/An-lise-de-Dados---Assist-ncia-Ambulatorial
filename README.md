@@ -30,7 +30,7 @@ O trabalho tem como propósito analisar os valores apresentados e aprovados refe
 
 A análise foi feita em python com o ambiente jupyter Notebook. Os arquivos utilizados estão disponíveis no site: http://tabnet.datasus.gov.br/tabdata/cadernos/sp.htm.
 
-O objetivo da análise é criar vários gráficos para comparar o total de gastos de cada cidade, outra para compara os gastos por categoria de procedimento de cada cidade, e outras três para comparas qual categoria as prefeituras mais gastam em seus respectivos munícipios.
+O objetivo da análise é criar vários gráficos para comparar o total de gastos de cada cidade, outro para compara os gastos por categoria de procedimento de cada cidade, e outros três para comparar qual categoria as prefeituras mais gastam em seus respectivos munícipios.
 
 # Legenda: 
 
